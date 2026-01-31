@@ -44,10 +44,4 @@ I´m Aaron, a backend-focused full-stack developer.
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/aaron-chan-)
 
 
-## ⚡ GitHub Stats
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=achandev&show_icons=true&count_private=true&theme=gruvbox" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achandev&layout=compact&count_private=true&exclude_repo=CG-CW-2023&theme=gruvbox" />
-<br/>
-
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=achandev.achandev)
